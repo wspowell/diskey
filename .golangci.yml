@@ -397,7 +397,6 @@ linters-settings:
       # - '.*\.Test'
       # - 'example\.com/package\.ExampleStruct[\d]{1,2}'
       - '.*/src/.*'
-      - '.*gearbox.*'
     # List of regular expressions to exclude struct packages and names from check.
     # Default: []
     # exclude:
